@@ -90,3 +90,5 @@ var transactions = [
 
 // const result = calculateTotalSpentByCategory(transactions);
 // console.log(result);
+
+//Pushing github repo using github CLI
